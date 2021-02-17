@@ -1,3 +1,4 @@
+//THIS IS A SIMPLE ANIMATION APP
 import 'package:animation/widgets/cat.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
